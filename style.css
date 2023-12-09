@@ -231,9 +231,9 @@ ul {
 }
 
 .footer {
-    background-image: url(image/ShutterstockBasic_154772753.jpg);
+    background-color: rgb(41, 39, 39);
     padding: 70px 0;
-    opacity: 0.5;
+   
     margin-top: 300px;
 }
 
@@ -245,7 +245,7 @@ ul {
 .footer-col h4 {
     font-size: 28px;
     font-weight: 1100;
-    color: #141313;
+    color: #f0e3e3;
     text-transform: capitalize;
     margin-bottom: 35px;
     font-weight: 500;
@@ -307,8 +307,11 @@ input {
     color: #090808;
     width: 150px;
     height: 30px;
+    border-radius: 10px;
+    color: #241c1c;
+    background-color: aquamarine;
 }
-
+/* foter tugashi */
 
 /*responsive*/
 
