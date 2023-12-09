@@ -161,6 +161,10 @@ h4{
     margin: 15px;
 }
 
+.logo-down-lorem{
+    margin-left: 250px;
+}
+
 h3{
     display: inline-block;
     font-size: 20px;
@@ -229,6 +233,8 @@ ul{
   background-image: url(image/ShutterstockBasic_154772753.jpg) ;
     padding: 70px 0;
 opacity:0.5 ;
+
+margin-top: 300px;
 
 }
 .footer-col{
