@@ -130,6 +130,7 @@ h4 {
 .page-first-logo {
     font-family: sans-serif;
     margin: 50px;
+    margin-top: 150px;
     text-align: center;
 }
 
@@ -140,7 +141,7 @@ h4 {
 }
 
 .page-images {
-    margin-left: 20px;
+    margin-left: 80px;
 }
 
 .page-next-part {
@@ -174,26 +175,26 @@ h3 {
 
 .next-part-h3-1 {
     position: absolute;
-    top: 955px;
-    left: 100px;
+    top: 1355px;
+    left: 150px;
 }
 
 .next-part-h3-2 {
     position: absolute;
-    top: 955px;
-    left: 380px;
+    top: 1355px;
+    left: 440px;
 }
 
 .next-part-h3-3 {
     position: absolute;
-    top: 955px;
-    left: 640px;
+    top: 1355px;
+    left: 700px;
 }
 
 .next-part-h3-4 {
     position: absolute;
-    top: 955px;
-    left: 850px;
+    top: 1355px;
+    left: 920px;
 }
 
 .next-part-word-1 {
@@ -201,7 +202,58 @@ h3 {
     text-align: center;
 }
 
+.text-nav-button{
+    text-align: center;
+    margin: 30px;
+    margin-left: 60px;
+    margin-right: 60px
+}
+.pictures{
 
+    
+display: flex;
+
+}
+.picture1{
+    margin: 20px;
+    margin-left: 60px;
+    width: 400px; 
+    height: 300px;
+}
+.picture2{
+    margin: 20px;
+    width: 400px; 
+    height: 300px;
+}
+.picture3{
+    margin: 20px;
+    width: 350px; 
+    height: 300px;
+}
+
+.text-img-bottom1{
+    display: inline-block;
+    position: absolute;
+    margin: 50px;
+    margin-left: 160px
+}
+.text-img-bottom2{
+    display: inline-block;
+    position: absolute;
+    margin: 50px;
+    margin-left: 580px
+}
+.text-img-bottom3{
+    display: inline-block;
+    position: absolute;
+    margin: 50px;
+    margin-left: 1050px
+}
+.text-img-bottom1 p{
+    color: red;
+    display: inline-block;
+    
+}
 /* footer */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
